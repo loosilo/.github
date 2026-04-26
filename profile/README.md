@@ -16,7 +16,7 @@ No bloat, no magic, just tools that do one thing well and compose naturally.
 | Tool | Description |
 |------|-------------|
 | [**contextswitch**](https://github.com/loosilo/contextswitch) | Switch your entire dev environment (AWS, K8s, venv, git, env vars) in one command |
-| [**contextgraph**](https://github.com/loosilo/contextgraph) | Context graph tooling |
+| [**contextgraph**](https://github.com/loosilo/contextgraph) | AI Agents Context tooling |
 
 ## Philosophy
 
@@ -28,5 +28,5 @@ No bloat, no magic, just tools that do one thing well and compose naturally.
 ---
 
 <div align="center">
-<sub>MIT licensed · built in Go</sub>
+<sub>MIT licensed</sub>
 </div>
